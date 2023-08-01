@@ -9,3 +9,4 @@ A single user when logs from github and google using same email, no two seperate
 - implement logout
 
 Q2. Create an express application using generator and implement email, password login using passport.
+done
